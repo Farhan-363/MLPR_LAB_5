@@ -25,7 +25,8 @@ The aim of this lab is to detect faces in a group photograph using haar Cascade 
 
 3. Clustering faces based  on Hue and Saturation : <img width="1005" height="547" alt="image" src="https://github.com/user-attachments/assets/2b85c6c5-ed9b-428c-bf48-53db4433bad4" />
 
-4. Template image with detected face: <img width="494" height="497" alt="image" src="https://github.com/user-attachments/assets/bf92c77e-e69b-41c5-9bf0-2eca39232d00" />
+4. Template image with detected face: <img width="491" height="500" alt="image" src="https://github.com/user-attachments/assets/a4dcf2c8-37be-4be0-a45f-fa8e0471b71a" />
+
 
 6. clustering faces based on hue and saturation with Dr Shashi Tharoor: <img width="1005" height="547" alt="image" src="https://github.com/user-attachments/assets/0e4993f8-da95-4dd5-9a9f-b300a5adc24e" />
 
